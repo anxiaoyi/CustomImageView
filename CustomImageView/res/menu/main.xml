@@ -1,0 +1,30 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.zk.customimageview.MainActivity" >
+
+    <item
+        android:id="@+id/action_type_oval"
+        android:orderInCategory="100"
+        android:title="@string/action_type_oval"
+        android:showAsAction="never"/>
+    
+    <item
+        android:id="@+id/action_type_circle"
+        android:orderInCategory="100"
+        android:title="@string/action_type_circle"
+        android:showAsAction="never"/>
+    
+    <item
+        android:id="@+id/action_type_round_rect"
+        android:orderInCategory="100"
+        android:title="@string/action_type_round_rect"
+        android:showAsAction="never"/>
+    
+    <item
+        android:id="@+id/action_type_square"
+        android:orderInCategory="100"
+        android:title="@string/action_type_square"
+        android:showAsAction="never"/>
+
+</menu>
